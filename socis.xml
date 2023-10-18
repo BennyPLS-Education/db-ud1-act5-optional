@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<socis>
+    <recompte>84</recompte>
+    <soci>
+        <dni>41538100J</dni>
+        <nom>JUAN</nom>
+        <llinatges>SUREDA</llinatges>
+        <adreça>MAR 27A</adreça>
+        <cp>7550</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>638353535</telefon>
+    </soci>
+    <soci>
+        <dni>41535353P</dni>
+        <nom>MARIA</nom>
+        <llinatges>OLIVER</llinatges>
+        <adreça>ROCA 33</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>639696969</telefon>
+    </soci>
+    <soci>
+        <dni>41579684D</dni>
+        <nom>PERE</nom>
+        <llinatges>SANCHEZ</llinatges>
+        <adreça>DOCTOR SERVERA 03</adreça>
+        <cp>7550</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>631569741</telefon>
+    </soci>
+    <soci>
+        <dni>41579632D</dni>
+        <nom>TOMEU</nom>
+        <llinatges>ROMERO</llinatges>
+        <adreça>GLOSADOR CALAFAT 23B 1R</adreça>
+        <cp>7550</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>694123674</telefon>
+    </soci>
+    <soci>
+        <dni>41520729H</dni>
+        <nom>Horacio</nom>
+        <llinatges>Acosta</llinatges>
+        <adreça>C/ del Amor nº5</adreça>
+        <cp>7580</cp>
+        <ciutat>CALA RATJADA</ciutat>
+        <telefon>971345687</telefon>
+    </soci>
+    <soci>
+        <dni>64751688Z</dni>
+        <nom>Juan Francisco</nom>
+        <llinatges>Risco</llinatges>
+        <adreça>C/Neptuno nº37</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>971564193</telefon>
+    </soci>
+    <soci>
+        <dni>37341322V</dni>
+        <nom>David</nom>
+        <llinatges>Ruiz Lopez</llinatges>
+        <adreça>C/Sa Tafona nº10</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>963697143</telefon>
+    </soci>
+    <soci>
+        <dni>79463254J</dni>
+        <nom>Andrea</nom>
+        <llinatges>Jurado Gonzalez</llinatges>
+        <adreça>C/Triton nº2</adreça>
+        <cp>7590</cp>
+        <ciutat>CALA RATJADA</ciutat>
+        <telefon>681479632</telefon>
+    </soci>
+    <soci>
+        <dni>47853671P</dni>
+        <nom>Mari</nom>
+        <llinatges>Conde Playa</llinatges>
+        <adreça>C/ 13</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971581234</telefon>
+    </soci>
+    <soci>
+        <dni>76664167P</dni>
+        <nom>Cristiano</nom>
+        <llinatges>Ronaldo</llinatges>
+        <adreça>C/Megacrack nº1</adreça>
+        <cp>7001</cp>
+        <ciutat>PALMA</ciutat>
+        <telefon>641897411</telefon>
+    </soci>
+    <soci>
+        <dni>74761322R</dni>
+        <nom>Raul</nom>
+        <llinatges>Gonzalez Blanco</llinatges>
+        <adreça>C/Alemania nº1</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>644678734</telefon>
+    </soci>
+    <soci>
+        <dni>41567890P</dni>
+        <nom>Antonio</nom>
+        <llinatges>Valle</llinatges>
+        <adreça>Cagarro 22</adreça>
+        <cp>7888</cp>
+        <ciutat>INCA</ciutat>
+        <telefon>971667788</telefon>
+    </soci>
+    <soci>
+        <dni>25864173E</dni>
+        <nom>Elena</nom>
+        <llinatges>Nito Del Bosque</llinatges>
+        <adreça>C/ Del Bosque</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971584567</telefon>
+    </soci>
+    <soci>
+        <dni>14785234X</dni>
+        <nom>Dolores</nom>
+        <llinatges>Fuertes de Barriga</llinatges>
+        <adreça>C/ Plaza de España</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971587412</telefon>
+    </soci>
+    <soci>
+        <dni>18888888B</dni>
+        <nom>MARIA</nom>
+        <llinatges>BARCELO</llinatges>
+        <adreça>REI JAUME</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>626222333</telefon>
+    </soci>
+    <soci>
+        <dni>18333333A</dni>
+        <nom>BARBARA</nom>
+        <llinatges>BARCELO</llinatges>
+        <adreça>VIA PORTUGAL</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>686122333</telefon>
+    </soci>
+    <soci>
+        <dni>48855555B</dni>
+        <nom>RAFEL</nom>
+        <llinatges>BARCELO</llinatges>
+        <adreça>REI JAUME</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>614222333</telefon>
+    </soci>
+    <soci>
+        <dni>26333333D</dni>
+        <nom>TOFOL</nom>
+        <llinatges>BARCELO</llinatges>
+        <adreça>REI JAUME</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>626222333</telefon>
+    </soci>
+    <soci>
+        <dni>32567891C</dni>
+        <nom>TONI</nom>
+        <llinatges>SITGES</llinatges>
+        <adreça>PINTOR JUAN GRIS</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>971555555</telefon>
+    </soci>
+    <soci>
+        <dni>02147853U</dni>
+        <nom>Domingo</nom>
+        <llinatges>Dia de Fiesta</llinatges>
+        <adreça>C/ Mestre</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971582141</telefon>
+    </soci>
+    <soci>
+        <dni>21489634P</dni>
+        <nom>Erika</nom>
+        <llinatges>Galindo Toilet</llinatges>
+        <adreça>C/ Plaza Pax</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971583210</telefon>
+    </soci>
+    <soci>
+        <dni>42551675W</dni>
+        <nom>Manuel</nom>
+        <llinatges>Soler Bieber</llinatges>
+        <adreça>TATATA 11</adreça>
+        <cp>7887</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971991728</telefon>
+    </soci>
+    <soci>
+        <dni>41528810Q</dni>
+        <nom>Agustín</nom>
+        <llinatges>Cojón Huevo</llinatges>
+        <adreça>Calzoncillos 10</adreça>
+        <cp>7777</cp>
+        <ciutat>LLOSETA</ciutat>
+        <telefon>97112398</telefon>
+    </soci>
+    <soci>
+        <dni>41536981Z</dni>
+        <nom>AITOR</nom>
+        <llinatges>DELGADO</llinatges>
+        <adreça>RONDA INSTITUT</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>678567567</telefon>
+    </soci>
+    <soci>
+        <dni>41246981B</dni>
+        <nom>JUAN</nom>
+        <llinatges>GARCIA</llinatges>
+        <adreça>PONT DES RIUET</adreça>
+        <cp>7689</cp>
+        <ciutat>PORTO CRISTO</ciutat>
+        <telefon>678567567</telefon>
+    </soci>
+    <soci>
+        <dni>39536981R</dni>
+        <nom>PACO</nom>
+        <llinatges>GUTIERREZ</llinatges>
+        <adreça>CALLE MAYOR</adreça>
+        <cp>7689</cp>
+        <ciutat>SA COMA</ciutat>
+        <telefon>678567567</telefon>
+    </soci>
+    <soci>
+        <dni>41543981T</dni>
+        <nom>MARIA</nom>
+        <llinatges>MATAMALES</llinatges>
+        <adreça>DESENGAÑO</adreça>
+        <cp>72000</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>678567567</telefon>
+    </soci>
+    <soci>
+        <dni>44000001Z</dni>
+        <nom>Antoni</nom>
+        <llinatges>Gaya Sistemes</llinatges>
+        <adreça>Nosena 1</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971162738</telefon>
+    </soci>
+    <soci>
+        <dni>41104519A</dni>
+        <nom>Biel</nom>
+        <llinatges>Rustit Torrat</llinatges>
+        <adreça>Allodalla 33</adreça>
+        <cp>7111</cp>
+        <ciutat>ARTA</ciutat>
+        <telefon>971092724</telefon>
+    </soci>
+    <soci>
+        <dni>41541510z</dni>
+        <nom>Ramses</nom>
+        <llinatges>Leal</llinatges>
+        <adreça>C/Cibeles nº9</adreça>
+        <cp>7580</cp>
+        <ciutat>S´ARENAL</ciutat>
+        <telefon>971564193</telefon>
+    </soci>
+    <soci>
+        <dni>41503298B</dni>
+        <nom>Biel</nom>
+        <llinatges>Padilla Sanchez</llinatges>
+        <adreça>C/  Junipero</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>971845685</telefon>
+    </soci>
+    <soci>
+        <dni>41623456J</dni>
+        <nom>Joan</nom>
+        <llinatges>Perez Sanchez</llinatges>
+        <adreça>Avda. Mossen Alcover nº12</adreça>
+        <cp>7854</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>971846332</telefon>
+    </soci>
+    <soci>
+        <dni>41723456P</dni>
+        <nom>Pep</nom>
+        <llinatges>Tejada Gomaritz</llinatges>
+        <adreça>C/ ametller nº15</adreça>
+        <cp>7329</cp>
+        <ciutat>CAMPOS</ciutat>
+        <telefon>971554392</telefon>
+    </soci>
+    <soci>
+        <dni>41548291M</dni>
+        <nom>Maria</nom>
+        <llinatges>Sancho Sanchez</llinatges>
+        <adreça>Avda. del Pins nº43</adreça>
+        <cp>7430</cp>
+        <ciutat>PORTO CRISTO</ciutat>
+        <telefon>971342244</telefon>
+    </soci>
+    <soci>
+        <dni>29478934Y</dni>
+        <nom>Catalina</nom>
+        <llinatges>Espinosa</llinatges>
+        <adreça>C/. De la Mar, 2</adreça>
+        <cp>7300</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>657897655</telefon>
+    </soci>
+    <soci>
+        <dni>79476934R</dni>
+        <nom>Manolo</nom>
+        <llinatges>Escobar</llinatges>
+        <adreça>C/. Llum, 10</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>657897975</telefon>
+    </soci>
+    <soci>
+        <dni>49578334U</dni>
+        <nom>Matias</nom>
+        <llinatges>Ginepro</llinatges>
+        <adreça>C/. Constitució, 9</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>657397485</telefon>
+    </soci>
+    <soci>
+        <dni>79458932T</dni>
+        <nom>Federico</nom>
+        <llinatges>Boaglio</llinatges>
+        <adreça>C/. Fondo, 7</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>687857659</telefon>
+    </soci>
+    <soci>
+        <dni>39458375S</dni>
+        <nom>Valentin</nom>
+        <llinatges>Rodriguez</llinatges>
+        <adreça>C/. De la Pau, 5</adreça>
+        <cp>7580</cp>
+        <ciutat>CAPDEPERA</ciutat>
+        <telefon>657897655</telefon>
+    </soci>
+    <soci>
+        <dni>23568945P</dni>
+        <nom>Joan</nom>
+        <llinatges>Miquel</llinatges>
+        <adreça>C/ SOL</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>871589565</telefon>
+    </soci>
+    <soci>
+        <dni>53869971G</dni>
+        <nom>Pere</nom>
+        <llinatges>Joan</llinatges>
+        <adreça>C/ AMERICA</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>971595651</telefon>
+    </soci>
+    <soci>
+        <dni>28228443R</dni>
+        <nom>Joana</nom>
+        <llinatges>Maria</llinatges>
+        <adreça>C/ LLUCMAJOR</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>666596599</telefon>
+    </soci>
+    <soci>
+        <dni>57259632Q</dni>
+        <nom>Dani</nom>
+        <llinatges>Tosco</llinatges>
+        <adreça>C/ DEL VENT</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>971854521</telefon>
+    </soci>
+    <soci>
+        <dni>32198752P</dni>
+        <nom>Bernat</nom>
+        <llinatges>Joan</llinatges>
+        <adreça>C/ DEL FONS</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>871586412</telefon>
+    </soci>
+    <soci>
+        <dni>41021010N</dni>
+        <nom>Lionel</nom>
+        <llinatges>Messi</llinatges>
+        <adreça>Regana Blava nº 1</adreça>
+        <cp>7590</cp>
+        <ciutat>CALA RAJADA</ciutat>
+        <telefon>640101021</telefon>
+    </soci>
+    <soci>
+        <dni>565789876</dni>
+        <nom>JUAN</nom>
+        <llinatges>FONT VELLA</llinatges>
+        <adreça>C/ PLA Nº12</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971886341</telefon>
+    </soci>
+    <soci>
+        <dni>34543455Z</dni>
+        <nom>MIQUEL</nom>
+        <llinatges>ROMERA  ASCO</llinatges>
+        <adreça>C/ LLADONERES Nº15</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971642741</telefon>
+    </soci>
+    <soci>
+        <dni>15799962Z</dni>
+        <nom>JACK</nom>
+        <llinatges>MARCUS COLOM</llinatges>
+        <adreça>C/ POU Nº11</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971899901</telefon>
+    </soci>
+    <soci>
+        <dni>14786662Z</dni>
+        <nom>PERETA</nom>
+        <llinatges>SANCHEZ  PERICO</llinatges>
+        <adreça>C/ COLL Nº09</adreça>
+        <cp>2300</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971885431</telefon>
+    </soci>
+    <soci>
+        <dni>74565232O</dni>
+        <nom>MIQUEL</nom>
+        <llinatges>CABRA SERVERA</llinatges>
+        <adreça>C/ SOLEDAD Nº88</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971890641</telefon>
+    </soci>
+    <soci>
+        <dni>41234582S</dni>
+        <nom>Maties</nom>
+        <llinatges>Es rei de ses ties</llinatges>
+        <adreça>C/Aigo Nº69</adreça>
+        <cp>7340</cp>
+        <ciutat>POTOPETRO</ciutat>
+        <telefon>754903456</telefon>
+    </soci>
+    <soci>
+        <dni>42356790S</dni>
+        <nom>Alejandro</nom>
+        <llinatges>Loquillo Killo</llinatges>
+        <adreça>C/Xipeta Nº6</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>443234790</telefon>
+    </soci>
+    <soci>
+        <dni>34572347K</dni>
+        <nom>Toni</nom>
+        <llinatges>Cogollo Andurriaz</llinatges>
+        <adreça>C/Ses herbes Nº1</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>906785421</telefon>
+    </soci>
+    <soci>
+        <dni>41323890X</dni>
+        <nom>Jordi</nom>
+        <llinatges>Fullana</llinatges>
+        <adreça>C/MacBook Pro Nº23</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>971236543</telefon>
+    </soci>
+    <soci>
+        <dni>41569692K</dni>
+        <nom>Temeoen</nom>
+        <llinatges>Lacabeza</llinatges>
+        <adreça>C/Ximbomba Nº64</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>325670989</telefon>
+    </soci>
+    <soci>
+        <dni>12585232Z</dni>
+        <nom>TOMEU</nom>
+        <llinatges>FALCAO FALCO</llinatges>
+        <adreça>C/ CAMPET Nº13</adreça>
+        <cp>7260</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971884341</telefon>
+    </soci>
+    <soci>
+        <dni>16766236S</dni>
+        <nom>ROMEU</nom>
+        <llinatges>MORA MORAO</llinatges>
+        <adreça>C/ MONJETA Nº15</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>971887754</telefon>
+    </soci>
+    <soci>
+        <dni>14784264V</dni>
+        <nom>TOMEO</nom>
+        <llinatges>COPO NIEVE</llinatges>
+        <adreça>C/ PURGATORI Nº12</adreça>
+        <cp>7260</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>97199980</telefon>
+    </soci>
+    <soci>
+        <dni>13385332F</dni>
+        <nom>MARIA</nom>
+        <llinatges>FIGUERA PIÑA</llinatges>
+        <adreça>C/ FORMIGO Nº02</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>971887841</telefon>
+    </soci>
+    <soci>
+        <dni>13455332P</dni>
+        <nom>MATEU</nom>
+        <llinatges>GARROVA GARROVER</llinatges>
+        <adreça>C/ CAPELL Nº05</adreça>
+        <cp>7210</cp>
+        <ciutat>ALGAIDA</ciutat>
+        <telefon>971887841</telefon>
+    </soci>
+    <soci>
+        <dni>14785232Z</dni>
+        <nom>TONI</nom>
+        <llinatges>PITILLOS ROSSELLO</llinatges>
+        <adreça>C/ MAJOR Nº12</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971885641</telefon>
+    </soci>
+    <soci>
+        <dni>16786236Z</dni>
+        <nom>MIQUEL</nom>
+        <llinatges>MORES MAQUINETAS</llinatges>
+        <adreça>C/ LLADONER Nº15</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971887741</telefon>
+    </soci>
+    <soci>
+        <dni>15785262Z</dni>
+        <nom>ADOLFO</nom>
+        <llinatges>MASSOT ADROVER</llinatges>
+        <adreça>C/ CARITAT Nº11</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971889801</telefon>
+    </soci>
+    <soci>
+        <dni>14785232Z</dni>
+        <nom>MIQUELA</nom>
+        <llinatges>SANZ PEREZ</llinatges>
+        <adreça>C/ CALL Nº09</adreça>
+        <cp>2300</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971885641</telefon>
+    </soci>
+    <soci>
+        <dni>72785232Z</dni>
+        <nom>JOANA</nom>
+        <llinatges>ADROVER RIU</llinatges>
+        <adreça>C/ SOL Nº88</adreça>
+        <cp>7300</cp>
+        <ciutat>PORRERES</ciutat>
+        <telefon>971885641</telefon>
+    </soci>
+    <soci>
+        <dni>69707172B</dni>
+        <nom>Andreu</nom>
+        <llinatges>Romeu Almohalla</llinatges>
+        <adreça>C/ De la piruleta 2</adreça>
+        <cp>7181</cp>
+        <ciutat>Palma de Mallorca</ciutat>
+        <telefon>666567234</telefon>
+    </soci>
+    <soci>
+        <dni>42343245J</dni>
+        <nom>Alberto</nom>
+        <llinatges>Munoz Cabrer</llinatges>
+        <adreça>C/ Femenies</adreça>
+        <cp>7500</cp>
+        <ciutat>Manacor</ciutat>
+        <telefon>971232425</telefon>
+    </soci>
+    <soci>
+        <dni>78220586G</dni>
+        <nom>ANTONI</nom>
+        <llinatges>FLORIT HOMAR</llinatges>
+        <adreça>AURORA</adreça>
+        <cp>7350</cp>
+        <ciutat>BINISSALEM</ciutat>
+        <telefon>971556688</telefon>
+    </soci>
+    <soci>
+        <dni>41615881-</dni>
+        <nom>IVAN</nom>
+        <llinatges>MORENO PRIETO</llinatges>
+        <adreça>C/CAMUÑAS 22</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971580201</telefon>
+    </soci>
+    <soci>
+        <dni>453234565</dni>
+        <nom>Juan Andres</nom>
+        <llinatges>Garcia</llinatges>
+        <adreça>Duana 17</adreça>
+        <cp>7670</cp>
+        <ciutat>Portocolom</ciutat>
+        <telefon>647111041</telefon>
+    </soci>
+    <soci>
+        <dni>44192456P</dni>
+        <nom>MANUEL</nom>
+        <llinatges>MORENO</llinatges>
+        <adreça>C/SES PARRES, 16</adreça>
+        <cp>7500</cp>
+        <ciutat>MANACOR</ciutat>
+        <telefon>678548132</telefon>
+    </soci>
+    <soci>
+        <dni>41570648N</dni>
+        <nom>DAMIÀ</nom>
+        <llinatges>RIUTORT</llinatges>
+        <adreça>PELADA</adreça>
+        <cp>7520</cp>
+        <ciutat>PETRA</ciutat>
+        <telefon>661161099</telefon>
+    </soci>
+    <soci>
+        <dni>43205743J</dni>
+        <nom>JORDI</nom>
+        <llinatges>FERNANDEZ HERNANDEZ</llinatges>
+        <adreça>C/RAMON MUNTANER 49A 5B</adreça>
+        <cp>7010</cp>
+        <ciutat>PALMA</ciutat>
+        <telefon>697245463</telefon>
+    </soci>
+    <soci>
+        <dni>458745741</dni>
+        <nom>Rodrigo</nom>
+        <llinatges>Quiroga</llinatges>
+        <adreça>C/Los esetreros n3</adreça>
+        <cp>7570</cp>
+        <ciutat>Arta</ciutat>
+        <telefon>971562081</telefon>
+    </soci>
+    <soci>
+        <dni>45874571E</dni>
+        <nom>Rodrigo</nom>
+        <llinatges>Quiroga</llinatges>
+        <adreça>C/Los esetreros n3</adreça>
+        <cp>7570</cp>
+        <ciutat>Arta</ciutat>
+        <telefon>971562081</telefon>
+    </soci>
+    <soci>
+        <dni>41576923L</dni>
+        <nom>TOMEU</nom>
+        <llinatges>FEMENIAS LLANERAS</llinatges>
+        <adreça>PEP NOT 1</adreça>
+        <cp>7570</cp>
+        <ciutat>ARTA</ciutat>
+        <telefon>658258561</telefon>
+    </soci>
+    <soci>
+        <dni>48154978A</dni>
+        <nom>TONI</nom>
+        <llinatges>PASTOR</llinatges>
+        <adreça>MAJOR 49</adreça>
+        <cp>7570</cp>
+        <ciutat>ARTA</ciutat>
+        <telefon>971485127</telefon>
+    </soci>
+    <soci>
+        <dni>41570638R</dni>
+        <nom>Kilian</nom>
+        <llinatges>Jimenez Casado</llinatges>
+        <adreça>Salas 22 2º B</adreça>
+        <cp>7500</cp>
+        <ciutat>Manacor</ciutat>
+        <telefon>697367308</telefon>
+    </soci>
+    <soci>
+        <dni>43223566Z</dni>
+        <nom>FRANCISCO</nom>
+        <llinatges>MANZANO</llinatges>
+        <adreça>C/BERAT 7</adreça>
+        <cp>7550</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>956545678</telefon>
+    </soci>
+    <soci>
+        <dni>41574473H</dni>
+        <nom>Monserrat</nom>
+        <llinatges>Sastre Mascaro</llinatges>
+        <adreça>Sitges19</adreça>
+        <cp>7630</cp>
+        <ciutat>Campos</ciutat>
+        <telefon>971650000</telefon>
+    </soci>
+    <soci>
+        <dni>42587965D</dni>
+        <nom>Toni</nom>
+        <llinatges>Ferrer Cañellas</llinatges>
+        <adreça>C/Mestre Gomila Nº13</adreça>
+        <cp>7630</cp>
+        <ciutat>Campos</ciutat>
+        <telefon>669874512</telefon>
+    </soci>
+    <soci>
+        <dni>41615881Y</dni>
+        <nom>IVAN</nom>
+        <llinatges>MORENO PRIETO</llinatges>
+        <adreça>C/CAMUÑAS 22</adreça>
+        <cp>7200</cp>
+        <ciutat>FELANITX</ciutat>
+        <telefon>971580201</telefon>
+    </soci>
+    <soci>
+        <dni>41570194V</dni>
+        <nom>Teresa</nom>
+        <llinatges>Romera Palazón</llinatges>
+        <adreça>C/Xaragall nº12</adreça>
+        <cp>7530</cp>
+        <ciutat>Sant Llorenç des Cardassar</ciutat>
+        <telefon>971838069</telefon>
+    </soci>
+    <soci>
+        <dni>41538101K</dni>
+        <nom>FRANCISA</nom>
+        <llinatges>SERVERA</llinatges>
+        <adreça>ORLANDIS 12 B</adreça>
+        <cp>7550</cp>
+        <ciutat>SON SERVERA</ciutat>
+        <telefon>635383838</telefon>
+    </soci>
+</socis>
